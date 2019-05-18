@@ -11,8 +11,8 @@ Atherosclerosis and associated cardiovascular diseases are the leading causes of
 <strong>Gaps</strong>
 While the use of pharmacuetical "drugable targets," such protein enzymes, receptors, or channels agents have led to a significant improvement in health outcomes of patients with atherosclerosis. Myron L. Weisfeldt et.al (2007)<sup>5</sup>,suggested that unlike treaments developed for infectious diseases they offer no immediate cure as they require longerm use. Thefore, the question remains: Can Big Data analytics or other computational intelligence techniques be utilized for early dectection of heart disease?<br>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ecuCECYhw_M/0.jpg)](https://www.youtube.com/watch?v=ecuCECYhw_M)
-[Reference: National Heart, Lung and Blood Institue](https://www.nhlbi.nih.gov/health/health-topics/topics/atherosclerosis)<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ecuCECYhw_M/0.jpg)](https://www.youtube.com/watch?v=ecuCECYhw_M)<br>
+[Reference: National Heart, Lung and Blood Institue](https://www.nhlbi.nih.gov/health/health-topics/topics/atherosclerosis)
 
 
 
